@@ -1,4 +1,4 @@
-Conceito das expressoes 
+# Conceito das expressões
     1.Direito à privacidade:
         É o direito de resguardar-se a pessoa da ingerência alheia na sua vida privada. É o direito que a pessoa possui de resguardar-se dos sentidos alheios, principalmente da vista e ouvidos dos outros. Em suma, é o direito de estar só.
 
