@@ -1,1 +1,34 @@
 Assinatura Digital: 
+Verifica a autenticidade e a integridade de um documento, mensagem ou transação eletrônica. Ela é usada para garantir que o conteúdo de um documento não tenha sido alterado e que o remetente da mensagem seja quem ele afirma ser.
+Os principais conceitos e componentes de uma assinatura digital:
+	Documento ou Dados: Qualquer documento eletrônico, mensagem ou conjunto de dados que precisa ser assinado digitalmente.
+	Hash: Um algoritmo de função de hash é usado para transformar o conteúdo do documento em uma sequência de caracteres fixa de tamanho fixo, conhecida como o valor de hash. 	
+	Qualquer alteração nos dados resultará em um valor de hash completamente diferente.
+	Chave Privada: É uma chave secreta que pertence ao signatário. A chave privada é usada para criar a assinatura digital e deve ser mantida em sigilo absoluto.
+	Chave Pública: É a chave correspondente à chave privada e é usada para verificar a assinatura digital. A chave pública pode ser compartilhada com qualquer pessoa.
+Os passos que uma assinatura digital percore:
+	O remetente cria um valor de hash a partir do documento que deseja assinar.
+	A chave privada do remetente é usada para criptografar o valor de hash, criando assim a assinatura digital.
+	A assinatura digital é anexada ao documento ou mensagem original.
+	O destinatário recebe o documento, a assinatura digital e a chave pública do remetente.
+	O destinatário usa a chave pública para descriptografar a assinatura digital e obter o valor de hash original.
+	O destinatário gera um novo valor de hash a partir do documento recebido.
+	Ele compara o valor de hash recém-gerado com o valor de hash obtido da assinatura digital. Se eles forem iguais, isso indica que o documento não foi alterado e que a assinatura é válida.
+
+Certificado Digital:
+É um documento eletrônico que atua como uma credencial de identidade virtual, permitindo que uma entidade (uma pessoa, uma organização ou um dispositivo) seja autenticada e suas informações sejam protegidas durante comunicações e transações online. Esses certificados são emitidos por autoridades de certificação (CAs) confiáveis e contêm informações sobre a entidade, bem como uma chave pública que pode ser usada para verificar a autenticidade e a integridade de comunicações eletrônicas.
+
+Os principais componentes relacionados a um certificado digital:
+	Informações da Entidade: Um certificado digital contém informações sobre a entidade para a qual foi emitido. Isso pode incluir o nome da entidade, seu número de identificação, endereço de email, entre outros detalhes identificáveis.
+	Chave Pública: Uma parte fundamental de um certificado digital é a chave pública da entidade. Essa chave é usada para criptografar informações que só podem ser descriptografadas pela chave privada correspondente. A chave pública é amplamente compartilhada, enquanto a chave privada é mantida em sigilo pelo proprietário do certificado.
+	Autoridade de Certificação (CA): As CAs são organizações confiáveis que emitem, revogam e gerenciam certificados digitais. Elas verificam a identidade das entidades antes de emitir um certificado, garantindo assim a confiabilidade do sistema.
+	Período de Validade: Um certificado digital tem uma data de início e uma data de expiração. Após a expiração, o certificado não é mais considerado válido e não pode ser usado para autenticação.
+	Número de Série: Cada certificado possui um número de série exclusivo que o identifica de forma única.
+	Assinatura Digital: Para garantir a integridade do certificado, ele é assinado digitalmente pela CA que o emitiu. A assinatura digital é verificada usando a chave pública da CA.
+Os certificados digitais são amplamente utilizados em várias aplicações, incluindo:
+	Segurança na Internet: Certificados SSL/TLS são usados para proteger conexões seguras em sites, garantindo que os dados transmitidos entre o navegador do usuário e o servidor da web sejam criptografados e autenticados.
+	Assinatura Eletrônica: Certificados digitais são usados para assinar documentos eletrônicos, garantindo que o documento não seja alterado após a assinatura e identificando o signatário.
+	Autenticação em Redes e Sistemas: Certificados são usados para autenticar usuários e dispositivos em redes corporativas, VPNs e sistemas de autenticação de dois fatores.
+	Email Seguro: Certificados digitais podem ser usados para criptografar e autenticar emails, protegendo a comunicação por email contra espionagem e adulteração.
+	Transações Financeiras Online: Certificados são usados em transações financeiras online para garantir a autenticidade das partes envolvidas e proteger as informações financeiras transmitidas.
+Essencialmente, os certificados digitais desempenham um papel fundamental na segurança e autenticação de transações e comunicações online, ajudando a proteger a privacidade e a confidencialidade das informações.
