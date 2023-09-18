@@ -2,7 +2,7 @@
 
   Os crimes eletrônicos, também conhecidos como cibercrimes ou crimes digitais, são atividades ilegais que ocorrem no ambiente virtual ou envolvem o uso de tecnologia da informação e comunicação para cometer crimes. Estes crimes podem abranger uma ampla gama de atividades, desde fraudes financeiras até violações de privacidade e ataques cibernéticos.
   
-Os tipos de crimes cibernéticos incluem:
+Os tipos de crimes cibernéticos incluem:\n
   Fraude por e-mail e pela Internet;
   Fraude de identidades (onde informações pessoais são roubadas e usadas);
   Roubo de dados financeiros ou de pagamento com cartão;
