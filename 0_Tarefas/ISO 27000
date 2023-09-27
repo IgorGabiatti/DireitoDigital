@@ -4,17 +4,12 @@ O que são ISOs?
 
 O que é o conjunto ISO 27000? 
   
-A ISO 27000 é um conjunto de certificações de segurança da informação e proteção de dados para empresas e órgãos públicos. Elas servem como base para a criação de um Sistema de Gestão de Segurança da Informação (SGSI) em organizações de pequeno, médio e grande porte. 
-O SGSI reúne políticas, procedimentos, diretrizes e recursos de proteção de informação de uma organização. O sistema deve estar alinhado aos objetivos de negócio e ser gerenciado de forma conjunta pela empresa.
-
-ISO 27001: É um modelo focado em estabelecer, implantar, operar, monitorar, rever, manter e melhorar um sistema de Gestão da Segurança da Informação. Irá implementar os controles da ISO 27002.
-ISO 27002: Código de práticas para Segurança da Informação.
-A ISO 27001 traz a abordagem da implementação segurança da Informação dentro de uma abordagem de processos que procura enfatizar aos usuários:
-	O entendimento dos requisitos e a necessidade de se ter uma política da segurança da informação.
-	Implementar e operar controles para gerenciamento dos riscos
-	Monitorar o desempenho e a eficácia da política de segurança da informação.
-	Promover a melhoria contínua.
-
+a ISO 27000 não é uma norma, mas sim um conjunto de certificações – ou, como é comum ouvir, uma família. Dessa maneira, cada membro da família recebe uma denominação única e objetivos específicos. Existem mais de 40 normas, que foram desenvolvidas com base em procedimentos para a implementação nas empresas, havendo algumas também dedicadas exclusivamente a determinados segmentos de mercado. Um exemplo é a ISO 27011, que aborda a gestão da segurança da informação para empresas de telecomunicações,
+enquanto a ISO 27015 é dedicada a negócios do ramo de serviços financeiros. Existem outros focados em tópicos específicos da tecnologia da informação, como controles para cloud computing (ISO 27017) e segurança de redes (ISO 27033). Veremos a seguir as normas mais conhecidas da família ISO 27000:
+	ISO 27000: oferece uma visão geral do conceito. Atua como uma norma introdutória, que traz consigo um glossário de termos que prepara para as certificações seguintes.
+	ISO 27001: trata dos requisitos para que exista um Sistema de Gestão da Segurança da Informação (SGSI). O SGSI é parte essencial da gestão da empresa, e é baseado em abordagens de risco do negócio com o intuito de estabelecer, implementar, operar, monitorar, revisar, manter e melhorar a segurança da informação. Dessa maneira, age como a principal norma que o empreendimento deve utilizar para obter a certificação empresarial em gestão da segurança da informação.
+	ISO 27002: trata-se de um documento de práticas no qual consta um conjunto de controles que dá apoio à aplicação do Sistema de Gestão da Segurança da Informação na empresa. Assim, existem certificações profissionais para esta ISO, onde os critérios para avaliar se uma pessoa é ou não qualificada para receber esse certificado são inspecionados com uma prova.
+	ISO 27003: como um guia de implantação, possui o conjunto de diretrizes detalhadas para a adoção do SGSI. A diferença para a 27001, que oferece os requisitos, é que nesta consta uma orientação minuciosa.
 Alguns dos principais beneficios proporcionados às empresas através da adoção das normas da série ISO 27000.
 
 1. Redução do Risco de Segurança da Informação
@@ -45,3 +40,4 @@ Como tenho formação em manutenção, o “dormir tranquilo”, é o lema de to
 	A ISO 27000 fornece uma estrutura abrangente para o gerenciamento de segurança da informação que comporta uma ampla gama de requisitos externos e internos;
 	As partes interessadas ou autoridades podem, em algum momento, insistir que a organização esteja em conformidade com a ISO 27000 como condição de negócios ou para satisfazer a LGPD ou outras Leis, de maneira que em algum momento pode ser condição essencial à realização de negócios;
 	A adoção de boas práticas geralmente reconhecidas fornecem uma defesa válida em caso de ações legais/regulatórias de execução após incidentes de segurança da informação ou Privacidade.
+
