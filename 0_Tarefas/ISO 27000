@@ -1,1 +1,47 @@
+O que são ISOs? 
+  A sigla ISO denomina a International Organization for Standardization, Organização Internacional de Padronização.
+  Portanto, é um meio de promover a padronização de produtos e serviços, utilizando normas internacionais para melhoria contínua do processo produtivo.
 
+O que é o conjunto ISO 27000? 
+  
+A ISO 27000 é um conjunto de certificações de segurança da informação e proteção de dados para empresas e órgãos públicos. Elas servem como base para a criação de um Sistema de Gestão de Segurança da Informação (SGSI) em organizações de pequeno, médio e grande porte. 
+O SGSI reúne políticas, procedimentos, diretrizes e recursos de proteção de informação de uma organização. O sistema deve estar alinhado aos objetivos de negócio e ser gerenciado de forma conjunta pela empresa.
+
+ISO 27001: É um modelo focado em estabelecer, implantar, operar, monitorar, rever, manter e melhorar um sistema de Gestão da Segurança da Informação. Irá implementar os controles da ISO 27002.
+ISO 27002: Código de práticas para Segurança da Informação.
+A ISO 27001 traz a abordagem da implementação segurança da Informação dentro de uma abordagem de processos que procura enfatizar aos usuários:
+	O entendimento dos requisitos e a necessidade de se ter uma política da segurança da informação.
+	Implementar e operar controles para gerenciamento dos riscos
+	Monitorar o desempenho e a eficácia da política de segurança da informação.
+	Promover a melhoria contínua.
+
+Alguns dos principais beneficios proporcionados às empresas através da adoção das normas da série ISO 27000.
+
+1. Redução do Risco de Segurança da Informação
+Este tinha de ser o primeiro conjunto de benefícios a ser citado, visto que a norma é conhecida como Sistema de Gestão da Segurança da Informação. Esta redução do risco é alcançada através das seguintes ações:
+	Reforço do ambiente de controle da Segurança da informação, enfatizando os requisitos de controle da segurança da informação, atualizando a política de Segurança, os controles e pelo envolvimento da alta direção nestas definições;
+	Através de uma abordagem abrangente e bem estruturada, ajuda a identificar todas as ameaças e vulnerabilidades e impactos, possibilitando que estes sejam tratados e avaliados, reduzindo o risco das organizações;
+	O método de avaliação do risco ajuda as organizações a definirem suas prioridades, custos, e recursos necessários;
+	Ajuda a alta direção a definir quais as transferências de riscos que podem ou devem ser transferidas para as seguradoras, reduzindo até mesmo os custos dos seguros, devido a aplicação de medidas de contenção;
+	Familiarização da equipe de TI e Gestores na análise e tratamento das vulnerabilidades, riscos e controles da Segurança de TI.
+
+2. Padronização
+O segundo conjunto de benefícios é o proporcionado pela padronização. Para que haja a redução de risco de segurança, as normas sugerem alguns itens que devem ser padronizados, trazendo os seguintes benefícios além da redução do risco.
+	É sugerido uma série de controles básicos, que são aceitos como boas práticas de TI e universalmente aceitos, de modo a garantir uma linha base de segurança, ajudando os gestores de TI nestas definições;
+	Normalmente estes itens são aplicáveis a vários departamentos, unidades de negócios, melhorando a produtividade e proporcionando uma economia de custos;
+	Esta padronização permite o controle básico, mas também libera o setor de segurança para definição de itens específicos de seus ativos, baseados em padrões universais, melhorando a segurança e proporcionando economia;
+	O conjunto de padrões ISO 27000 está sendo desenvolvido e mantido ativamente pelos órgãos de padrões, refletindo novos desafios de segurança (como BYOD e cloud computing);
+	Por ser baseada em riscos, a abordagem ISO 27000 é flexível o suficiente para atender a qualquer organização, em oposição a padrões mais rígidos e prescritivos.
+
+3. Abordagem estruturada
+O terceiro conjunto de benefícios refere-se à necessidade das empresas no dever de tratar alguns problemas através de uma abordagem estruturada, buscando a identificação real do problema e a causa da solução, remontando ao PDCA.
+	Fornece um framework/estrutura lógica consistente e abrangente para os diferentes controles de segurança da informação;
+	Esta abordagem também força a reanálise dos problemas para verificar se existe algo a ser resolvido, gerando a melhoria contínua do processo;
+	A abordagem também gera meios de medir o desempenho, de modo a garantir que a melhoria contínua da organização está acontecendo;
+	Por fim, constrói um conjunto coerente de políticas, procedimentos e diretrizes de segurança da informação, adaptados à organização e formalmente aprovados pela administração.
+
+4. Conformidade
+Como tenho formação em manutenção, o “dormir tranquilo”, é o lema de todo profissíonal que trabalha em manutenção e, se estou com os procedimentos indicados nas normas da série ISO 27000, tenho também os seguintes benefícios:
+	A ISO 27000 fornece uma estrutura abrangente para o gerenciamento de segurança da informação que comporta uma ampla gama de requisitos externos e internos;
+	As partes interessadas ou autoridades podem, em algum momento, insistir que a organização esteja em conformidade com a ISO 27000 como condição de negócios ou para satisfazer a LGPD ou outras Leis, de maneira que em algum momento pode ser condição essencial à realização de negócios;
+	A adoção de boas práticas geralmente reconhecidas fornecem uma defesa válida em caso de ações legais/regulatórias de execução após incidentes de segurança da informação ou Privacidade.
